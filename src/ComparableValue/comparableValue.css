@@ -1,0 +1,20 @@
+.greater {
+     color: rgb(105, 167, 64);
+ }
+
+.equal {
+     color: #666666;
+ }
+
+.lesser {
+     color: rgb(255, 102, 102);
+ }
+
+
+.alignLeft {
+    text-align: left;
+}
+
+.alignRight {
+    text-align: right;
+}
